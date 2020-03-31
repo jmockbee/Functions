@@ -8,7 +8,7 @@
 //}
 
 // function isPurple (color) {
-//     if (color.toLowerCase() === purple'){
+//     if (color.toLowerCase() === 'purple'){
 //         return true;
 //     }
 //     else {
